@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=tsaichen1o" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsaichen1o&layout=donut" alt="TC's most used language" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/tsaichen1o/github-readme-stats">
