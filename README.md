@@ -1,9 +1,14 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tsaichen1o)](https://git.io/streak-stats)
-
 <p align="center">
-  [![TC's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsaichen1o)](https://github.com/auntieyafen/github-readme-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=tsaichen1o" alt="GitHub Streak" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/tsaichen1o/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tsaichen1o" alt="TC's GitHub stats" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
